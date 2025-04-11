@@ -60,3 +60,4 @@ Create ExcursionController - Thu, Apr 10, 2025 11:07:34 PM
 Add ContactController - Thu, Apr 10, 2025 11:07:35 PM
 Optimize error handling - Thu, Apr 10, 2025 11:07:36 PM
 Add SearchController with multi-category search - Fri, Apr 11, 2025 10:34:29 PM
+Implement SitemapController with XML generation - Fri, Apr 11, 2025 10:34:30 PM
