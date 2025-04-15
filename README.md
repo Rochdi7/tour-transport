@@ -24,7 +24,8 @@ Check out a walkthrough of the platform in action:
 
 🎥 [Watch the desktop demo](PKtours_Desktop.mp4)
 
-📱 [Watch the mobile demo](PKtours_Mobile.mp4)
+📱 [Watch the mobile demo](PKtours_Mobile.mp4) 
+
 
 ---
 
