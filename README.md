@@ -30,7 +30,7 @@ Check out a walkthrough of the platform in action:
 
 | footer Page |offers | transport |
 |-----------|------------|------------|
-| ![](CAPTURE.PNG) | ![](CAPTURE2.PNG) | ![](CAPTURE3.PNG) |
+| ![](Capture.PNG) | ![](Capture2.PNG) | ![](Capture3.PNG) |
 
 
 
